@@ -1,0 +1,627 @@
+[
+  {
+    "text": "Which type of soil is most widely spread and important for agriculture in India?",
+    "options": ["Black soil", "Red soil", "Alluvial soil", "Laterite soil"],
+    "correct_answer": "Alluvial soil",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which crop is known as the 'golden fibre'?",
+    "options": ["Cotton", "Jute", "Silk", "Wool"],
+    "correct_answer": "Jute",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is a rabi crop?",
+    "options": ["Rice", "Wheat", "Jute", "Cotton"],
+    "correct_answer": "Wheat",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which is the most widely used means of transportation in India?",
+    "options": ["Railways", "Roadways", "Airways", "Waterways"],
+    "correct_answer": "Roadways",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which state is the largest producer of iron ore in India?",
+    "options": ["Odisha", "Karnataka", "Chhattisgarh", "Jharkhand"],
+    "correct_answer": "Odisha",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which of these is a non-conventional source of energy?",
+    "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+    "correct_answer": "Solar energy",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which soil type is ideal for growing cotton?",
+    "options": ["Alluvial soil", "Black soil", "Red soil", "Desert soil"],
+    "correct_answer": "Black soil",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which is the largest source of irrigation in India?",
+    "options": ["Canals", "Wells and tube wells", "Tanks", "Rainwater harvesting"],
+    "correct_answer": "Wells and tube wells",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which agreement led to the formation of the World Trade Organization (WTO)?",
+    "options": ["GATT", "NAFTA", "SAARC", "OPEC"],
+    "correct_answer": "GATT",
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The National Highway connecting Delhi, Mumbai, Chennai, and Kolkata is known as?",
+    "options": ["Grand Trunk Road", "Golden Quadrilateral", "North-South Corridor", "East-West Corridor"],
+    "correct_answer": "Golden Quadrilateral",
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Who wrote the pamphlet 'What is the Third Estate?' during the French Revolution?",
+    "options": ["Napoleon Bonaparte", "Abbe Sieyes", "Louis XVI", "Robespierre"],
+    "correct_answer": "Abbe Sieyes",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Non-Cooperation Movement was launched in which year?",
+    "options": ["1915", "1920", "1930", "1942"],
+    "correct_answer": "1920",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which movement began with the Dandi March in 1930?",
+    "options": ["Quit India Movement", "Civil Disobedience Movement", "Non-Cooperation Movement", "Khilafat Movement"],
+    "correct_answer": "Civil Disobedience Movement",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who was the founder of the Indian National Congress?",
+    "options": ["Mahatma Gandhi", "A.O. Hume", "Bal Gangadhar Tilak", "Dadabhai Naoroji"],
+    "correct_answer": "A.O. Hume",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Quit India Movement was launched in which year?",
+    "options": ["1930", "1935", "1942", "1947"],
+    "correct_answer": "1942",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+    "options": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+    "correct_answer": "Bal Gangadhar Tilak",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which printing technology was invented by Johann Gutenberg?",
+    "options": ["Woodblock printing", "Movable type printing press", "Lithography", "Offset printing"],
+    "correct_answer": "Movable type printing press",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Treaty of Versailles was signed after which war?",
+    "options": ["World War I", "World War II", "Franco-Prussian War", "American Civil War"],
+    "correct_answer": "World War I",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Who was the leader of the Bolshevik Revolution in Russia?",
+    "options": ["Karl Marx", "Vladimir Lenin", "Joseph Stalin", "Leon Trotsky"],
+    "correct_answer": "Vladimir Lenin",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The Jallianwala Bagh massacre took place in which year?",
+    "options": ["1917", "1919", "1921", "1930"],
+    "correct_answer": "1919",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the HCF of 12 and 18?",
+    "options": ["2", "3", "6", "9"],
+    "correct_answer": "6",
+    "category": "Maths",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the value of sin(90°)?",
+    "options": ["0", "1", "1/2", "Undefined"],
+    "correct_answer": "1",
+    "category": "Maths",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the value of (a + b)^2?",
+    "options": ["a^2 + b^2", "a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "2ab"],
+    "correct_answer": "a^2 + 2ab + b^2",
+    "category": "Maths",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the probability of getting a head when a coin is tossed once?",
+    "options": ["1/4", "1/3", "1/2", "1"],
+    "correct_answer": "1/2",
+    "category": "Maths",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What are the roots of a quadratic equation ax^2 + bx + c = 0 called?",
+    "options": ["Solutions", "Zeroes", "Both solutions and zeroes", "Coefficients"],
+    "correct_answer": "Both solutions and zeroes",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "In an AP (arithmetic progression), if first term a = 2 and common difference d = 3, what is the 4th term?",
+    "options": ["8", "9", "10", "11"],
+    "correct_answer": "11",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the distance between points (0,0) and (3,4)?",
+    "options": ["3", "4", "5", "7"],
+    "correct_answer": "5",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "If the discriminant of a quadratic equation is negative, how many real roots does it have?",
+    "options": ["0", "1", "2", "Infinite"],
+    "correct_answer": "0",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the total surface area formula of a cylinder with radius r and height h?",
+    "options": ["2πrh", "2πr(r + h)", "πr^2h", "πr(r + h)"],
+    "correct_answer": "2πr(r + h)",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the value of tan(45°) + cot(45°)?",
+    "options": ["1", "2", "0", "Undefined"],
+    "correct_answer": "2",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+     "text": "The sum of the roots of the equation 2x^2 - 7x + 3 = 0 is:",
+    "options": ["3.5", "3", "1.5", "7"],
+    "correct_answer": "3.5",
+    "category": "Maths",
+    "difficulty": "medium"
+ },
+{
+    "text": "Find the value of k such that x^2 - 5x + k = 0 has equal (real, repeated) roots.",
+    "options": ["6.25", "5", "6", "12.5"],
+    "correct_answer": "6.25",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The 10th term of an AP whose first term is 5 and common difference is 3 is:",
+    "options": ["32", "29", "35", "30"],
+    "correct_answer": "32",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the sum of the first 15 terms of an AP with first term 3 and common difference 2.",
+    "options": ["255", "240", "270", "225"],
+    "correct_answer": "255",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If sinθ = 3/5 and θ is acute, find cosθ.",
+    "options": ["0.8", "0.6", "0.75", "0.4"],
+    "correct_answer": "0.8",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Evaluate: 2 sin30° cos30°",
+    "options": ["√3/2", "1/2", "1", "√3"],
+    "correct_answer": "√3/2",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Find the midpoint of the line segment joining the points (2,3) and (4,7).",
+    "options": ["(3,5)", "(2,4)", "(6,10)", "(1,2)"],
+    "correct_answer": "(3,5)",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the distance between the points (1,2) and (4,6).",
+    "options": ["5", "4", "6", "7"],
+    "correct_answer": "5",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the volume of a cone with radius 3 cm and height 7 cm. (use π = 22/7)",
+    "options": ["66 cm³", "132 cm³", "198 cm³", "33 cm³"],
+    "correct_answer": "66 cm³",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Find the curved surface area of a cylinder with radius 7 cm and height 10 cm. (use π = 22/7)",
+    "options": ["440 cm²", "220 cm²", "880 cm²", "110 cm²"],
+    "correct_answer": "440 cm²",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A bag contains 5 red and 7 blue balls. Find the probability of drawing a red ball.",
+    "options": ["5/12", "7/12", "5/7", "1/12"],
+    "correct_answer": "5/12",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "If one zero of the polynomial x^2 - 7x + k is 3, find the value of k.",
+    "options": ["12", "10", "15", "9"],
+    "correct_answer": "12",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Solve for x: 2x + 3y = 12 and x - y = 1.",
+    "options": ["3", "2", "4", "1"],
+    "correct_answer": "3",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Using prime factorisation, find the LCM of 26 and 91.",
+    "options": ["182", "91", "26", "2366"],
+    "correct_answer": "182",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The product of two consecutive positive integers is 240. Find the larger integer.",
+    "options": ["16", "15", "17", "20"],
+    "correct_answer": "16",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ohm", "Ampere", "Watt"],
+    "correct_answer": "Ampere",
+    "category": "Physics",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which law states that V = IR?",
+    "options": ["Newton's Law", "Ohm's Law", "Faraday's Law", "Coulomb's Law"],
+    "correct_answer": "Ohm's Law",
+    "category": "Physics",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the unit of electric power?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "correct_answer": "Watt",
+    "category": "Physics",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Concave mirror", "Convex mirror", "Plane mirror", "Cylindrical mirror"],
+    "correct_answer": "Convex mirror",
+    "category": "Physics",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What type of lens is used to correct short-sightedness (myopia)?",
+    "options": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+    "correct_answer": "Concave lens",
+    "category": "Physics",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What device is used to detect the presence of current in an electric circuit?",
+    "options": ["Ammeter", "Galvanometer", "Voltmeter", "Rheostat"],
+    "correct_answer": "Galvanometer",
+    "category": "Physics",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What happens to the resistance of a conductor when its length is doubled (area constant)?",
+    "options": ["Halved", "Doubled", "Unchanged", "Quadrupled"],
+    "correct_answer": "Doubled",
+    "category": "Physics",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the power of a lens with a focal length of 0.5 m?",
+    "options": ["0.5 D", "1 D", "2 D", "5 D"],
+    "correct_answer": "2 D",
+    "category": "Physics",
+    "difficulty": "hard"
+  },
+  {
+    "text": "According to the right-hand thumb rule, what does the thumb represent?",
+    "options": ["Direction of magnetic field", "Direction of current", "Direction of force", "Direction of resistance"],
+    "correct_answer": "Direction of current",
+    "category": "Physics",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the chemical formula of baking soda?",
+    "options": ["NaOH", "NaHCO3", "Na2CO3", "NaCl"],
+    "correct_answer": "NaHCO3",
+    "category": "Chemistry",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which gas is evolved when a metal reacts with a dilute acid?",
+    "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "correct_answer": "Hydrogen",
+    "category": "Chemistry",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the pH value of a neutral solution?",
+    "options": ["0", "7", "14", "1"],
+    "correct_answer": "7",
+    "category": "Chemistry",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is the most reactive metal?",
+    "options": ["Iron", "Gold", "Sodium", "Copper"],
+    "correct_answer": "Sodium",
+    "category": "Chemistry",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is an example of a displacement reaction?",
+    "options": [
+      "Fe + CuSO4 -> FeSO4 + Cu",
+      "NaOH + HCl -> NaCl + H2O",
+      "CaCO3 -> CaO + CO2",
+      "H2 + O2 -> H2O"
+    ],
+    "correct_answer": "Fe + CuSO4 -> FeSO4 + Cu",
+    "category": "Chemistry",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the process of coating iron with a thin layer of zinc called?",
+    "options": ["Electroplating", "Galvanization", "Corrosion", "Alloying"],
+    "correct_answer": "Galvanization",
+    "category": "Chemistry",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which type of reaction releases heat energy?",
+    "options": ["Endothermic", "Exothermic", "Displacement", "Decomposition"],
+    "correct_answer": "Exothermic",
+    "category": "Chemistry",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the general formula for saturated hydrocarbons (alkanes)?",
+    "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"],
+    "correct_answer": "CnH2n+2",
+    "category": "Chemistry",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which alloy is made from copper and zinc?",
+    "options": ["Bronze", "Brass", "Steel", "Solder"],
+    "correct_answer": "Brass",
+    "category": "Chemistry",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which organ in the human body is primarily responsible for filtering blood and forming urine?",
+    "options": ["Liver", "Kidney", "Heart", "Lungs"],
+    "correct_answer": "Kidney",
+    "category": "Biology",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the process by which plants lose excess water in the form of vapor called?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Excretion"],
+    "correct_answer": "Transpiration",
+    "category": "Biology",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which pigment absorbs sunlight for photosynthesis?",
+    "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Carotene"],
+    "correct_answer": "Chlorophyll",
+    "category": "Biology",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the male reproductive part of a flower called?",
+    "options": ["Pistil", "Stamen", "Sepal", "Petal"],
+    "correct_answer": "Stamen",
+    "category": "Biology",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the functional unit of the kidney called?",
+    "options": ["Neuron", "Nephron", "Alveoli", "Nucleus"],
+    "correct_answer": "Nephron",
+    "category": "Biology",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which hormone regulates blood sugar level in the human body?",
+    "options": ["Adrenaline", "Insulin", "Thyroxine", "Testosterone"],
+    "correct_answer": "Insulin",
+    "category": "Biology",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which blood vessels carry blood away from the heart?",
+    "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+    "correct_answer": "Arteries",
+    "category": "Biology",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the process of cell division involved in the formation of gametes called?",
+    "options": ["Mitosis", "Meiosis", "Binary fission", "Budding"],
+    "correct_answer": "Meiosis",
+    "category": "Biology",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which part of the human brain controls involuntary actions like heartbeat and breathing?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "correct_answer": "Medulla oblongata",
+    "category": "Biology",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the term for organisms that can prepare their own food?",
+    "options": ["Heterotrophs", "Autotrophs", "Saprotrophs", "Parasites"],
+    "correct_answer": "Autotrophs",
+    "category": "Biology",
+    "difficulty": "hard"
+  },
+  { "correct_answer": "Autotrophs",
+    "category": "Biology",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The sum of the roots of the equation 2x^2 - 7x + 3 = 0 is:",
+    "options": ["3.5", "3", "1.5", "7"],
+    "correct_answer": "3.5",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the value of k such that x^2 - 5x + k = 0 has equal (real, repeated) roots.",
+    "options": ["6.25", "5", "6", "12.5"],
+    "correct_answer": "6.25",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The 10th term of an AP whose first term is 5 and common difference is 3 is:",
+    "options": ["32", "29", "35", "30"],
+    "correct_answer": "32",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the sum of the first 15 terms of an AP with first term 3 and common difference 2.",
+    "options": ["255", "240", "270", "225"],
+    "correct_answer": "255",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "If sinθ = 3/5 and θ is acute, find cosθ.",
+    "options": ["0.8", "0.6", "0.75", "0.4"],
+    "correct_answer": "0.8",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Evaluate: 2 sin30° cos30°",
+    "options": ["√3/2", "1/2", "1", "√3"],
+    "correct_answer": "√3/2",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Find the midpoint of the line segment joining the points (2,3) and (4,7).",
+    "options": ["(3,5)", "(2,4)", "(6,10)", "(1,2)"],
+    "correct_answer": "(3,5)",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the distance between the points (1,2) and (4,6).",
+    "options": ["5", "4", "6", "7"],
+    "correct_answer": "5",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Find the volume of a cone with radius 3 cm and height 7 cm. (use π = 22/7)",
+    "options": ["66 cm³", "132 cm³", "198 cm³", "33 cm³"],
+    "correct_answer": "66 cm³",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Find the curved surface area of a cylinder with radius 7 cm and height 10 cm. (use π = 22/7)",
+    "options": ["440 cm²", "220 cm²", "880 cm²", "110 cm²"],
+    "correct_answer": "440 cm²",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A bag contains 5 red and 7 blue balls. Find the probability of drawing a red ball.",
+    "options": ["5/12", "7/12", "5/7", "1/12"],
+    "correct_answer": "5/12",
+    "category": "Maths",
+    "difficulty": "medium"
+  },
+  {
+    "text": "If one zero of the polynomial x^2 - 7x + k is 3, find the value of k.",
+    "options": ["12", "10", "15", "9"],
+    "correct_answer": "12",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Solve for x: 2x + 3y = 12 and x - y = 1.",
+    "options": ["3", "2", "4", "1"],
+    "correct_answer": "3",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Using prime factorisation, find the LCM of 26 and 91.",
+    "options": ["182", "91", "26", "2366"],
+    "correct_answer": "182",
+    "category": "Maths",
+    "difficulty": "hard"
+  },
+  {
+    "text": "The product of two consecutive positive integers is 240. Find the larger integer.",
+    "options": ["16", "15", "17", "20"],
+    "correct_answer": "16",
+    "category": "Maths",
+    "difficulty": "hard"
+  }
+]
